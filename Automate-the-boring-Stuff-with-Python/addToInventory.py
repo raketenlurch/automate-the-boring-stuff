@@ -10,6 +10,8 @@ def displayInventory(inventory):
 
 displayInventory(stuff)
 
+print()
+
 def addToInventory(inventory, addedItems):
     # convert list to dictionary
     for loot in addedItems:
